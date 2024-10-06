@@ -68,6 +68,7 @@ We would like to thank the following for their invaluable contributions:
 ## Image Credits
 - Photo by [Adele Payman](https://unsplash.com/@adele_payman?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/green-leafed-plants-during-daytime-2oYMwuFgnTg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - Photo by [Patrick Hendry](https://unsplash.com/@worldsbetweenlines?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/factories-with-smoke-under-cloudy-sky-6xeDIZgoPaw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- Photo by [Free Nomad](https://unsplash.com/@passimage?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-piece-of-plastic-sitting-on-top-of-a-leaf-covered-ground-Vpgmz9D-a0g?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/person-watering-plant-sFydXGrt5OA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 ## License
